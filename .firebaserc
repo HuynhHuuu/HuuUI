@@ -1,14 +1,14 @@
 {
   "targets": {
-    "fir-d2c75": {
+    "test-angular-dc467": {
       "hosting": {
         "HelloWorld": [
-          "fir-d2c75"
+          "test-angular-dc467"
         ]
       }
     }
   },
   "projects": {
-    "default": "fir-d2c75"
+    "default": "test-angular-dc467"
   }
 }
